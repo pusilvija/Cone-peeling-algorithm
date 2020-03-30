@@ -1,6 +1,5 @@
 import torch
 import numpy as np
-from Bio.PDB import *
 from sklearn.metrics import mean_squared_error
 import math
 import time
